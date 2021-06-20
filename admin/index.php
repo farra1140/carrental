@@ -47,12 +47,14 @@ echo "<script type='text/javascript'> document.location = 'dashboard.php'; </scr
 
 <body>
 	
-	<div class="login-page bk-img" style="background-image: url(img/facts_bg.jpg); opacity:0.8;">
+	<div class="login-page bk-img" style="background-image: url(img/facts_bg.jpg); opacity:1.2;">
 		<div class="form-content">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3">
-						<h1 class="text-center text-bold mt-5x" style="color:black">Admin | Sign in</h1>
+					<div class="">
+						<h1 class="text-center text-bold mt-5x" style="color:white">Admin | Sign in</h1>
+						</div>
 						<div class="well row pt-2x pb-2x bk-light">
 							<div class="col-md-8 col-md-offset-2">
 							<center><img src="img/user.png" class="ts-avatar hidden-side " style="width:150px;  margin: auto;" alt=""><center>
